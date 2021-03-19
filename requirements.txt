@@ -6,7 +6,7 @@ Django==2.0
 django-otp==0.5.2
 django-otp-yubikey==0.5.0
 django-widget-tweaks==1.4.3
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 gunicorn==19.9.0
 idna==2.8
 ipython==6.2.1
